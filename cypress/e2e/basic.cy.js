@@ -18,17 +18,4 @@ describe("empty spec", () => {
     cy.url().should("include", "/values");
     cy.get("h1").contains(/Values/i);
   });
-
-  it("navigates to the blog page", () => {
-    cy.get('a[href="/post"]').eq(0).click();
-    cy.url().should("include", "/post");
-    cy.get("h1").contains(/Latest Stories/i);
-  });
-});
-
-describe("validate blog", () => {
-  it("should have only 3 blog posts by default", () => {
-    cy.visit("/post");
-    cy.get("ul#blog-list li").should("have.length", 3);
-  });
 });

@@ -2,44 +2,24 @@
 title: "Values"
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Automation and Efficiency"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
+      At Xtratosphr, we strive for automation and efficiency in all our solutions. We streamline workflows and reduce manual tasks, enabling your team to focus on core business objectives and innovation.
     imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+  - heading: "Collaboration and Communication"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
+      We foster a culture of collaboration and communication, essential for successful DevOps and Platform Engineering. Our strategies ensure all stakeholders are aligned and work seamlessly together.
     imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+  - heading: "Continuous Improvement"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
+      Embracing the DevOps philosophy of continuous improvement, we regularly refine processes and adopt new technologies to enhance efficiency, security, and performance.
     imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+  - heading: "Scalability and Flexibility"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      Our solutions are designed to scale with your business. We build flexible platforms that can adapt to changing needs and support growth without compromising performance.
     imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
+  - heading: "Security and Compliance"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      Security and compliance are integral to our approach. We implement stringent security measures and ensure compliance with industry standards, protecting your business from potential threats.
     imageUrl: "/img/about-reinvest-profits.jpg"
 ---
