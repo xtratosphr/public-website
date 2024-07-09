@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+image: /img/about-jumbotron.jpg
 ---
 
 We’d love to get in touch with you and hear your ideas and questions. We strive to grow and improve constantly, and your feedback is valuable to us.
